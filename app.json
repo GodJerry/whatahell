@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Net-Solution",
+    "description": "IOT total solution",
+    "slug": "Amazing-Technology",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/background.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.netsolution.iot"
+    },
+    "ios": {
+      "bundleIdentifier": "com.netsolution.kr",
+      "supportsTablet": true
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    }
+  }
+}
